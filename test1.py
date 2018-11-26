@@ -1,0 +1,5 @@
+print("OK!!!")
+print("NG?")
+print("Please input...")
+userin = input('>>> ')
+print(userin)
